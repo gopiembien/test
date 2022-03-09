@@ -2,10 +2,7 @@
 
 int main()
 {
-<<<<<<< HEAD
-    int m2;
-=======
+    int m2 = 10;
     int p2 = 30;
->>>>>>> feature
     return 0;
 }
